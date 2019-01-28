@@ -278,5 +278,9 @@ input[type=submit] {
   .auth-image {
     width: 500px;
   }
+  .nav {
+    float: none;
+    text-align: center;
+  }
 
 }
